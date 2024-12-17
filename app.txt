@@ -1,0 +1,1 @@
+https://huggingface.co/spaces/stable-diffusion-boh/demo-app
